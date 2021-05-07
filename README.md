@@ -1,13 +1,17 @@
 1. clone the nodejs project
+
 git clone https://github.com/ananth4u/node-docker-sample.git
 
 2. Navigate inside the nodejs project
+
  cd node-docker-sample
 
 3. To install dependency
+
 npm install
 
 4. To test the application
+
 npm start
 
 5. To docker the application by building docker image unsing dockerfile
